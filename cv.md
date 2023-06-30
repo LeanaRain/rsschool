@@ -25,3 +25,5 @@ I am learning english now. I really love english and i want more practicing engl
 But i know than i have really a lot mistakes. 
 ### German
 I learned german in school. It was twenty years ago. And i do not remember much it.
+
+This is my first try to write english by himself, almost without googl-translate. You will not be strict for me.
